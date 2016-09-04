@@ -1,4 +1,4 @@
-
+/*Bu proje geliþtirilecek*/
 #include <TaskScheduler.h>
 #include <Wire.h>
 #include <RTClib.h>
