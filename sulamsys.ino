@@ -1,4 +1,6 @@
-/*Bu proje geliþtirilecek*/
+/*Bu proje geliþtirilecek
+Türkçe karakter sorunu vs nin
+*/
 #include <TaskScheduler.h>
 #include <Wire.h>
 #include <RTClib.h>
